@@ -1,5 +1,6 @@
-## Hi there 👋
-
+name:victor
+curso: ciencias da tecnologia
+interesses:Em progamacao e criacao de games
 <!--
 **vichugo-bit/vichugo-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
